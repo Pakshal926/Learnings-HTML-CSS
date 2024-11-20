@@ -1,0 +1,36 @@
+What is HTML ???
+(HyperText Markup Language)
+= tool that we use to create websites
+HTML = giving instructions to a computer
+
+
+Syntax
+= rules for writing code
+= grammar (for code)
+
+
+<a> = anchor element
+(link to another element)
+
+
+HTML Attribute = modifies how an element behaves
+
+What we learned ??
+- Basics of HTML 
+- HTML Attributes
+- Syntax
+
+
+General Technique:
+1. Create element with HTMl.
+2. Style with CSS one-by-one.
+
+<html> = a web page
+<body> = contains all elements that are visible
+void elements = don't need a closing tag
+
+Features we get on following the HTML structure:
+1. <title>
+2. Live Server
+3. Link CSS files
+4. Add new fonts and more. 

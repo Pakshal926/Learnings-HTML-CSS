@@ -1,0 +1,29 @@
+CSS - Cascading Style Sheets (change the appearance of HTML elements)
+CSS Selector = which elements we are targeting.
+
+px = pixels
+in rgb,
+r = red
+g = green
+b = blue
+
+
+General Technique:
+1. Create button with HTML
+2. Style with CSS one-by-one 
+
+space (around an element)
+= margin
+
+Hover = this :hover is a pseudo class.
+active = this pseudo class activates when we click an element
+
+Opacity = it tells how seethrough an HTML element is.
+          it takes a value between zero and one.
+
+
+CSS Box Model:
+    > how much space an element takes up
+    > how far it is away from other elements.
+
+Class name selector > Elment name selector
