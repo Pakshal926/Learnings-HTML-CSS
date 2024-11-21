@@ -34,3 +34,8 @@ Features we get on following the HTML structure:
 2. Live Server
 3. Link CSS files
 4. Add new fonts and more. 
+
+
+a. block element = takes up the entire line.
+b. inline-block element = only takes up as much as space as needed.
+c. inline element = appear within a line of text.
