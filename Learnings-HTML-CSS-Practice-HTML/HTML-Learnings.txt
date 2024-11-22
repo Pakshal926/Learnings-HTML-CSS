@@ -39,3 +39,12 @@ Features we get on following the HTML structure:
 a. block element = takes up the entire line.
 b. inline-block element = only takes up as much as space as needed.
 c. inline element = appear within a line of text.
+
+
+<div> = division / or just a box.
+      = is a block element.
+      = can contain other elements.
+      = containers.
+
+block element = take up the entire line in their container.
+inline-block element = only takes as much space as needed.
