@@ -48,3 +48,8 @@ c. inline element = appear within a line of text.
 
 block element = take up the entire line in their container.
 inline-block element = only takes as much space as needed.
+
+Nested-layout Techniques:     
+      There are 2 types of techniques:
+            1. Vertical Layout Technique
+            2. Horizontal Layout Technique
