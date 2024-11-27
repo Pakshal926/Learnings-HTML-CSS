@@ -27,3 +27,4 @@ CSS Box Model:
     > how far it is away from other elements.
 
 Class name selector > Elment name selector
+fr = free space
