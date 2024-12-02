@@ -53,3 +53,6 @@ Nested-layout Techniques:
       There are 2 types of techniques:
             1. Vertical Layout Technique
             2. Horizontal Layout Technique
+
+grid method = rigid method
+flexbox method = flexible method
